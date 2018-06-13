@@ -1,0 +1,22 @@
+{
+  "name": "algoexpert",
+  "version": "1.0.0",
+  "description": "The solutions to various algorithm problems that occur on the interviews.",
+  "main": "the_Longest_Range_In_Array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borysonok/AlgoExpert.git"
+  },
+  "author": "borysonok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borysonok/AlgoExpert/issues"
+  },
+  "homepage": "https://github.com/borysonok/AlgoExpert#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
