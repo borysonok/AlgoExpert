@@ -1,5 +1,7 @@
-# AlgoExpert
 
-The solutions to various algorithm problems that occur on the interviews.
 
-This is an interview preparation workshop. It is separatad by issues and will be constantly update.
+# Various algorithmic problems you can find during the intervie process.
+
+This is an interview preparation workshop and it is separatad by issues.
+
+This repo will be constantly updated.
