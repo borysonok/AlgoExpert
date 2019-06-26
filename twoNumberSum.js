@@ -1,4 +1,4 @@
-
+// Question: Given an array of N integers, Find a pair of numbers in the array whose sum is targetSum
 // FirstSolution:
 // Time: O(n^2)
 // Space: O(1)
